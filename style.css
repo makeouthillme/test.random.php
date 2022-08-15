@@ -1,0 +1,75 @@
+.randomnumbers{
+    font-size: 75px;
+    font-weight: bold;
+    color: darkslateblue;
+    text-align: center;
+    margin-top: 20%;
+}
+
+input{
+    border: 3px solid #555;
+    padding: 5px 20px;
+    display:block;
+    width: 15%;
+    box-sizing:border-box;
+}
+
+.forms{
+    margin-top: 15%;
+
+}
+form p{
+    text-align: center;
+}
+
+form input{
+    margin: 0 auto;
+}
+
+p1 input{
+    background-color: #333333;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+li a:hover {
+    background-color: darkslateblue ;
+}
+
+form p1 input:hover{
+    background-color: darkslateblue;
+}
+h1{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 100px;
+    color: #333333;
+}
+
+h1:hover {
+    background-color: darkslateblue;
+}
